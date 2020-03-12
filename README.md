@@ -39,7 +39,7 @@ div and i give it some style and for the button too.  i did the same for O .  i 
    for diagonals       if box1 ==bo54&& box5 ==box 9 ,return box9
                       if box2 ==box5 && box5 ==box 7 ,return box7
                               
-                              no winner  return -1 to see drow
+                              no winner  return -1 to see drow 
  
    
  
