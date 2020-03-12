@@ -2,9 +2,9 @@ hi, here is Tic-Tac-Toe.
 i made folder have 4 file ( index.html , mine.css,minejs
 
 1)IN index.html:
-*i writ <!DOCTYPE html> for the version html 5, <html> tag to wirt the code , <head> tag inside it i add <title>tag and i put Tic-Tac-toe as name, and i link me (CSS) file by using <liknk> tag . i close the head and i put <body> tag to write the the element witch in the web page , inside the body i use <h1>Tag to give name of me game.
+*i writ <!DOCTYPE html> for the version html 5, <html> tag to wirt the code , <head> tag inside it i add <title>tag and i put Tic-Tac-toe as name, and i link me (CSS) file by using <liknk> tag . i close the head and i put <body> tag to write the the element witch in the web page , inside the body i use h1 Tag to give name of me game.
   
-  ** use <table > tag to make the the box for the game and i give it id . inside the table i made 3 <tr> tag to make the box row evre row have 3 <td> tag as the data of the table so now i have tabe of 9 box. i close the table by </table> tag .
+  ** use table  tag to make the the box for the game and i give it id . inside the table i made 3 <tr> tag to make the box row evre row have 3 <td> tag as the data of the table so now i have tabe of 9 box. i close the table by </table> tag .
  
  *** i put <script src= "jQury.sj"></script> tag to connect me JQurey.
  <script src="text?javascript" src= "main.js"></script> to Connect me js file.
